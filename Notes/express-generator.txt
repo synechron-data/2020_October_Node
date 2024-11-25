@@ -1,0 +1,15 @@
+npm install -g express-generator (Once)
+
+1. express --view=pug 9_express-app
+
+2. cd 9_express-app
+
+3. npm install
+
+4. npm i -D nodemon
+
+5. In package.json, change start script to use nodemon instead of node
+
+6. npm start 
+
+Once able to run and check the code, please put done on the chat window

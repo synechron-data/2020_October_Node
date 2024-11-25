@@ -1,0 +1,19 @@
+RDBMS / ORDBMS				No SQL
+
+SQL Queries				API's
+
+Database				Database
+
+Table					Collection
+
+Rows					Documents
+
+Columns					Fields
+
+Primary Key				Primary Key (_id is default)
+
+Join					Embededded Documents
+
+Background Process			Background Process / Mongod (CLI)
+
+SQLPlus / SSMS				Mongo (CLI) / Compass / Robo Mongo		

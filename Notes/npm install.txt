@@ -1,0 +1,47 @@
+Global Installation
+
+npm install -g <PackageName>
+
+npm uninstall -g <PackageName>
+
+
+Local Installation
+
+npm install --save <PackageName>
+
+npm uninstall --save <PackageName>
+
+npm i <PackageName>
+
+Dev Env
+
+npm install --save-dev <PackageName>
+
+npm uninstall --save-dev <PackageName>
+
+npm i -D <PackageName>
+
+Specific Version of Package
+
+npm i <PackageName>@Version
+
+npm i <PackageName>@1
+
+npm i <PackageName>@1.10
+
+npm i <PackageName>@1.10.9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
